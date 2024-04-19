@@ -1,0 +1,16 @@
+C:\Users\hakan\source\repos\SayıBulmaOyun\SayıBulmaOyun\bin\Debug\net8.0-windows\SayıBulmaOyun.exe
+C:\Users\hakan\source\repos\SayıBulmaOyun\SayıBulmaOyun\bin\Debug\net8.0-windows\SayıBulmaOyun.deps.json
+C:\Users\hakan\source\repos\SayıBulmaOyun\SayıBulmaOyun\bin\Debug\net8.0-windows\SayıBulmaOyun.runtimeconfig.json
+C:\Users\hakan\source\repos\SayıBulmaOyun\SayıBulmaOyun\bin\Debug\net8.0-windows\SayıBulmaOyun.dll
+C:\Users\hakan\source\repos\SayıBulmaOyun\SayıBulmaOyun\bin\Debug\net8.0-windows\SayıBulmaOyun.pdb
+C:\Users\hakan\source\repos\SayıBulmaOyun\SayıBulmaOyun\obj\Debug\net8.0-windows\SayıBulmaOyun.Form1.resources
+C:\Users\hakan\source\repos\SayıBulmaOyun\SayıBulmaOyun\obj\Debug\net8.0-windows\SayıBulmaOyun.csproj.GenerateResource.cache
+C:\Users\hakan\source\repos\SayıBulmaOyun\SayıBulmaOyun\obj\Debug\net8.0-windows\SayıBulmaOyun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakan\source\repos\SayıBulmaOyun\SayıBulmaOyun\obj\Debug\net8.0-windows\SayıBulmaOyun.AssemblyInfoInputs.cache
+C:\Users\hakan\source\repos\SayıBulmaOyun\SayıBulmaOyun\obj\Debug\net8.0-windows\SayıBulmaOyun.AssemblyInfo.cs
+C:\Users\hakan\source\repos\SayıBulmaOyun\SayıBulmaOyun\obj\Debug\net8.0-windows\SayıBulmaOyun.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\SayıBulmaOyun\SayıBulmaOyun\obj\Debug\net8.0-windows\SayıBulmaOyun.dll
+C:\Users\hakan\source\repos\SayıBulmaOyun\SayıBulmaOyun\obj\Debug\net8.0-windows\refint\SayıBulmaOyun.dll
+C:\Users\hakan\source\repos\SayıBulmaOyun\SayıBulmaOyun\obj\Debug\net8.0-windows\SayıBulmaOyun.pdb
+C:\Users\hakan\source\repos\SayıBulmaOyun\SayıBulmaOyun\obj\Debug\net8.0-windows\SayıBulmaOyun.genruntimeconfig.cache
+C:\Users\hakan\source\repos\SayıBulmaOyun\SayıBulmaOyun\obj\Debug\net8.0-windows\ref\SayıBulmaOyun.dll
